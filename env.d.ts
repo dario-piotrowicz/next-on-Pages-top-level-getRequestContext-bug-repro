@@ -3,5 +3,5 @@ interface CloudflareEnv {
   // (for more details on Bindings see: https://developers.cloudflare.com/pages/functions/bindings/)
   //
   // KV Example:
-  // MY_KV: KVNamespace
+  MY_KV: KVNamespace
 }
